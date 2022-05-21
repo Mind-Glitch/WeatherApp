@@ -1,0 +1,16 @@
+C:\Users\TonyRoss\Desktop\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.exe
+C:\Users\TonyRoss\Desktop\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.deps.json
+C:\Users\TonyRoss\Desktop\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.json
+C:\Users\TonyRoss\Desktop\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.dev.json
+C:\Users\TonyRoss\Desktop\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\TonyRoss\Desktop\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfo.cs
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.genruntimeconfig.cache
+C:\Users\TonyRoss\Desktop\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TonyRoss\Desktop\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CopyComplete

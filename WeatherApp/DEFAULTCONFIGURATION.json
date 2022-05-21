@@ -1,0 +1,7 @@
+{
+  "ApiKey": "3u40gohnMVMVaXN7BATyKdjIAcQ8AssL",
+  "LocationKey": 2195404,
+  "DataCollectionTimeFrequencyHours": 0,
+  "DataCollectionTimeFrequencyMinutes": 0,
+  "DownloadedDataSavePlace": "./WeatherData/"
+}
